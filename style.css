@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+ input{
+    
+     height: 30px;
+ }
+ .buttons{
+     margin-left: 350px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+    align-items: center;
+ }
+h1 {
+    font-family: 'Titan One', cursive;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    text-shadow: 10px 2px 2px rgb(102, 98, 98);
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+h3 {
+    margin-top: 30px;
+    font-family: 'Titan One', cursive;
+    color: rgb(255, 255, 255);
+    text-shadow: 10px 2px 2px rgb(102, 98, 98);    
+    text-align: center;
+    letter-spacing: 0.01em;
+
+}
