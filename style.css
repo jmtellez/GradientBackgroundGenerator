@@ -39,32 +39,18 @@
   box-shadow: 0 1px 4px rgba(0,0,0,.22);
   padding: 0;
   }
-  .container {
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-}
  input{
 
      height: 30px;
  }
- .buttons{
-     margin-left: 350px;
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: center;
-    align-items: center;
- }
+.code{
+  display: inline-flex;
+  margin-top:20px;
+  margin-left:30%;
+}
 h3{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
   font-family: 'Roboto', sans-serif;
-  color: rgb(255, 255, 255);
+   color: rgb(255, 255, 255);
   letter-spacing: 0.01em;
   text-shadow: 2px 2px 2px rgb(102, 98, 98);
-
 }
